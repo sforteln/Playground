@@ -1,4 +1,5 @@
-## Playground
+## SFProfileHeader
 ==========
 
-These are random proof on concept projects/me playing around with idea to figure out if its work pursuing in a more concerted manner.
+This project uses KVO to alter the "profile Header" above the table in response to the user scrolling the table.
+
